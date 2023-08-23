@@ -75,7 +75,7 @@ $ gradle war
 3. intellij 재시작
 4. setting > tomcat server add
 5. intellij new project 생성
-  - intellij new project > exsist source
+    - intellij new project > exsist source
   
 
 
