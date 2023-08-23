@@ -64,7 +64,7 @@ dependencies {
 ```
 
 
-### 빌드
+### 빌드 (아래 참고사항으로 진행 할 시 불필요)
 ```
 $ gradle war 
 ```
@@ -75,7 +75,7 @@ $ gradle war
 3. intellij 재시작
 4. setting > tomcat server add
 5. intellij new project 생성
-  - ntellij new project > exsist source
+  - intellij new project > exsist source
   
 
 
