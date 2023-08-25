@@ -8,6 +8,9 @@ C:\Users\user\IdeaProjects>cd cms_clean
 
 ### 프로젝트 선택
 ```
+gradle init --type java-library
+
+
 Select type of project to generate:
   1: basic
   2: application
